@@ -1,0 +1,2 @@
+g = 'vvv'
+gld = 'gld'
